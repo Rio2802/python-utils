@@ -1,4 +1,3 @@
-@'
 # 🐍 Python Utils
 
 A collection of handy **Python scripts** for automation, API calls, and data handling. 🚀
